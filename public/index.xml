@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LowyBlog</title>
+    <link>https://lowy.github.io/</link>
+    <description>Recent content on LowyBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://lowy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://lowy.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://lowy.github.io/about/</guid>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
+It makes use of a variety of open source projects including:
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Vulnversity</title>
+      <link>https://lowy.github.io/posts/1/01/vulnversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lowy.github.io/posts/1/01/vulnversity/</guid>
+      <description>Vulnversity es una máquina de dificultad fácil, con el sistema operativo Linux, en concreto Ubuntu, en la que vamos a tratar los siguientes conceptos básicos: &amp;ndash;&amp;gt; Fuzzear directorios bajo una ruta.
+&amp;ndash;&amp;gt; Saber aprovechar el poder cargar y ejecutar un archivo que nosotros le adjuntemos/subamos a la página para poder comprometer el servidor web.
+&amp;ndash;&amp;gt; Intercepciones con burpsuite
+&amp;ndash;&amp;gt; Explotacion de permisos SUID en concreto el &amp;quot;/bin/systemctl&amp;quot;
+
+FASE DE RECONOCIMIENTO: nmap -p- &amp;ndash;open &amp;ndash;min-rate 5000 -n -sS -Pn (IP VICTIMA) -vvv -oG allports</description>
+    </item>
+    
+  </channel>
+</rss>

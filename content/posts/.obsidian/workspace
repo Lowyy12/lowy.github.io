@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "553686476e02df51",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e24be52a9022192",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "VULNVERSITY.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f48ad96e83cd524",
+    "type": "split",
+    "children": [
+      {
+        "id": "b18c90dbcb0a2417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ca900633b95f912",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3e72afa5dafc3f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206
+  },
+  "right": {
+    "id": "b3a1f7c7a5fd8d6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2ba5e1cfc9de51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79852f2520b7011f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VULNVERSITY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4e24be52a9022192",
+  "lastOpenFiles": [
+    "VULNVERSITY.md",
+    "home/lowy/lowy.md",
+    "imagen1.png",
+    "2022-05-30_21-42.png",
+    "Pasted image 20220530214245.png",
+    "about.md",
+    "migrate-from-jekyll.md",
+    "creating-a-new-theme.md",
+    "goisforlovers.md",
+    "hugoisforlovers.md"
+  ]
+}
